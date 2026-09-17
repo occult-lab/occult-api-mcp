@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yogatara24/occult-api-mcp.git"
+    "url": "git+https://github.com/occult-lab/occult-api-mcp.git"
   },
   "homepage": "https://occultapi.com",
   "bugs": {
-    "url": "https://github.com/Yogatara24/occult-api-mcp/issues"
+    "url": "https://github.com/occult-lab/occult-api-mcp/issues"
   }
 }
